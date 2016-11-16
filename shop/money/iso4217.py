@@ -13,6 +13,7 @@ CURRENCIES = {
     'AUD': ('036', 2, '$', _("Australian Dollar")),
     'BHD': ('048', 3, '.د.ب', _('Bahraini dinar')),
     'BRL': ('986', 2, 'R$', _("Brazilian Real")),
+    'CAD': ('124', 2, '$', _("Canadian Dollar")),
     'CHF': ('756', 2, 'SFr.', _("Swiss Franc")),
     'CNY': ('156', 2, '¥', _("Chinese Yuan")),
     'CZK': ('203', 2, 'Kč', _("Czech Koruna")),
